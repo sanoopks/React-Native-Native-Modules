@@ -13,7 +13,6 @@ public class MathModule extends ReactContextBaseJavaModule {
         super(context);
     }
 
-
     @NonNull
     @Override
     public String getName() {
